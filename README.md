@@ -1,4 +1,4 @@
-# AnanyaP 
+# Ananya Patankar 
 Hello World 👋
 * I am Ananya Patankar studying Computer Science Engineering at Vellore Institue of Technology and I am in my 3rd Year.
 # Technincal Background 💻
