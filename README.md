@@ -9,11 +9,8 @@ Hello there! 👋
 * I have made IoT based projects and App Development projects in various hackathons.
 # Creative Background 🎶
 * Researching and Reading
-* Sketching
-* Dancing
-* Singing
+* Novice Sketching,Zumba and Vocals
 * Designing
-* Books
 * Adventure activities and travelling
 * Sports like lawn tennis,cricket,badminton,volleyball etc (all kinds)
 # Personal Insight 💜
