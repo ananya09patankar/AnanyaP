@@ -1,5 +1,6 @@
 # Ananya Patankar 
-Hello there! 👋
+Hello there folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 * I am Ananya Patankar studying Computer Science Engineering at Vellore Institue of Technology and I am in my 3rd Year.
 * I am a DevOps Enhthusiast.
 # Technincal Background 💻
@@ -10,8 +11,8 @@ Hello there! 👋
 # Creative Background 🎶
 * Researching and Reading
 * Adventure activities,travelling and sports.
-#Further Info
-* 
+# Further Info 📞
+https://www.linkedin.com/in/ananya-patankar-5b66a918a/ LinkedIn Profile 
 # Personal Insight 💜
 * If my bio seems to be off the grid ,you are more than welcome to help!
 
