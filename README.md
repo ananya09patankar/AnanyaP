@@ -29,7 +29,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya09patankar&layout=compact&langs_count=8)](https://github.com/ananya09patankar/github-readme-stats)
 
 # Technologies and Tools
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<#007396>)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 # Personal Insight 💜
 * If my bio seems to be off the grid ,you are more than welcome to help!
