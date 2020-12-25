@@ -1,6 +1,7 @@
 # Ananya Patankar 
 Hello World 👋
 * I am Ananya Patankar studying Computer Science Engineering at Vellore Institue of Technology and I am in my 3rd Year.
+* I am a DevOps Enhthusiast.
 # Technincal Background 💻
 * I consider myself a semi-beginner and hence I am exploring the fields of Data Science, Machine Learning, Web Development.
 * I have worked on projects pertaining to Database Management System,Image Processing,Web Programming, Data Viz, AI, Data Structures, Cyber Security etc and research projects relating to Operating Systems.
