@@ -13,7 +13,7 @@ Hello there folks! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 * Adventure activities,travelling and sports.
 # Further Info 📞
 * LinkedIn Profile[https://www.linkedin.com/in/ananya-patankar-5b66a918a/]
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya09patankar&layout=compact)](https://github.com/ananya09patankar/github-readme-stats)
 ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananya09patankar&show_icons=true&theme=shades-of-purple)
 # Personal Insight 💜
 * If my bio seems to be off the grid ,you are more than welcome to help!
