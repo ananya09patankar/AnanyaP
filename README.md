@@ -9,7 +9,7 @@ Hello there folks! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 * I have a good background of programming languages like JAVA,Python,C++,C
 * I have made IoT based projects and App Development projects in various hackathons.
 # Creative Background 🎶
-* Researching and Reading
+* Researching and Reading ,Creative Writing.
 * Adventure activities,travelling and sports.
 # Further Info 📞
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
@@ -29,8 +29,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya09patankar&layout=compact&langs_count=8)](https://github.com/ananya09patankar/github-readme-stats)
 
 # Technologies and Tools
-
-
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<#007396>)
 
 # Personal Insight 💜
 * If my bio seems to be off the grid ,you are more than welcome to help!
