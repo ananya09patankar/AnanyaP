@@ -12,7 +12,7 @@ Hello there folks! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 * Researching and Reading
 * Adventure activities,travelling and sports.
 # Further Info 📞
-https://www.linkedin.com/in/ananya-patankar-5b66a918a/ LinkedIn Profile 
+(https://www.linkedin.com/in/ananya-patankar-5b66a918a/) LinkedIn Profile 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 # Personal Insight 💜
