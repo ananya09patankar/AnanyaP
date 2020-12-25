@@ -14,6 +14,6 @@ Hello there! 👋
 * Adventure activities and travelling
 * Sports like lawn tennis,cricket,badminton,volleyball etc (all kinds)
 # Personal Insight 💜
-* As I am still learning so if my bio seems to be off the grid ,you are more than welcome to help
+* If my bio seems to be off the grid ,you are more than welcome to help
 
 *Thank You for going through this,Have a nice day! 😄*
