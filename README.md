@@ -12,9 +12,7 @@ Hello there folks! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 * Researching and Reading
 * Adventure activities,travelling and sports.
 # Further Info 📞
-You can find me on 
-* [![Twitter][1.2]][1], 
-* [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
