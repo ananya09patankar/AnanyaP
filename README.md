@@ -17,4 +17,5 @@ Hello World 👋
 * Sports like lawn tennis,cricket,badminton,volleyball etc (all kinds)
 # Personal Insight 💜
 * As I am still learning so if my bio seems to be off the grid ,you are more than welcome to help
-*Thankyou for going through this,Have a nice day! 😄
+
+*Thank You for going through this,Have a nice day! 😄*
