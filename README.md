@@ -11,7 +11,7 @@ Hello there folks! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 # Creative Background 🎶
 * Researching and Reading ,Creative Writing.
 * Adventure activities,travelling and sports.
-# Further Info 📞
+# Further Info 📲
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 
@@ -24,11 +24,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/ananya-patankar-5b66a918a
 
  
-# Statistics
+# Statistics 📊
 ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananya09patankar&show_icons=true&theme=shades-of-purple)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya09patankar&layout=compact&langs_count=8)](https://github.com/ananya09patankar/github-readme-stats)
 
-# Technologies and Tools
+# Technologies and Tools 🧰
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg"  /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg"  /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg"  /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg"  /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jupyter.svg"  /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/anaconda.svg"  /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dialogflow.svg"  />
 
