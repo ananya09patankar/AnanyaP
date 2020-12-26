@@ -35,4 +35,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 # Personal Insight 💜
 * If my bio seems to be off the grid ,you are more than welcome to help!
 
-*Thank You for going through this,Have a nice day! 😄*
+*Thank You for going through my profile overview,Have a nice day! 😄*
