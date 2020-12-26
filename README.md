@@ -9,7 +9,7 @@ Hello there folks! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 * I consider myself a semi-beginner and hence I am exploring the fields of Data Science, Machine Learning, Web Development.
 * I have worked on projects pertaining to Database Management System,Image Processing,Web Programming, Data Viz, AI, Data Structures, Cyber Security etc and research projects relating to Operating Systems.
 * I have a good background of programming languages like JAVA,Python,C++,C
-* I have made IoT based projects and App Development projects in various hackathons.
+* I have made IoT based projects and App Development projects in some hackathons.
 
 # Creative Background 🎶
 
@@ -33,7 +33,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 # Statistics 📊
 
 ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananya09patankar&show_icons=true&theme=shades-of-purple)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya09patankar&layout=compact&langs_count=15)](https://github.com/ananya09patankar/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya09patankar&layout=compact&langs_count=20)](https://github.com/ananya09patankar/github-readme-stats)
 
 # Technologies and Tools 🧰
 
