@@ -1,7 +1,7 @@
 # Ananya Patankar 
 Hello there folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* I am Ananya Patankar studying Computer Science Engineering at Vellore Institue of Technology and I am in my 3rd Year.
+* I am Ananya Patankar studying Computer Science Engineering at Vellore Institute of Technology and I am in my 3rd Year.
 * I am a DevOps Enthusiast.
 
 # Technical Background 💻
