@@ -1,8 +1,8 @@
 # Ananya Patankar 
 Hello there folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* I am Ananya Patankar studying Computer Science Engineering at Vellore Institute of Technology and I am in my Final Year.
-* I am a DevOps Enthusiast.
+* I work as a Software Developer in Bank of America.
+* I am proficient in Web development, Data Structures and Algorithms and Java Programming.
 
 # Technical Background 💻
 
