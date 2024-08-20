@@ -1,8 +1,11 @@
 # Ananya Patankar 
 Hello there folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* I work as a Software Developer in Bank of America.
-* I am proficient in Web development, Data Structures and Algorithms and Java Programming.
+* I am pursuing my Masters in Computer Science from North Carolina State University at Raleigh.
+* I worked as a Full Stack Developer in Bank of America for 2 years after completing my Bachelor of Technology in Computer Science from Vellore Institute of Technology, Vellore.
+* I worked as an intern in TCS India for Python GIS application and Smart Controls Pvt Ltd for web development.
+* I have completed my cerfications from renowned univeristy courses.
+* I am proficient in Full Stack development, Data Structures and Algorithms and Java Programming.
 
 # Technical Background 💻
 
